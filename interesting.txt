@@ -1,0 +1,3 @@
+dfs:
+hashset hashes randomly, so the sequence going through the children set are different every time, 
+so the solution to dfs is also different, which varies in terms of path.
